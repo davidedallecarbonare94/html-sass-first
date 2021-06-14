@@ -1,0 +1,16 @@
+//variables
+$text_color_1 : red;
+$text_color_2 : green;
+$background_color_1: red;
+$background_color_2: green;
+
+//Rules
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: $background_color_1;
+    color: $background_color_2;
+}
+
